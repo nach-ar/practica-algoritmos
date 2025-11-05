@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7">
+  <diagram name="Página-1" id="FWvya4C7UoGQ2u_xYs-l">
+    <mxGraphModel dx="1586" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-1" target="VzxG3PNdKPLOwtO5EStc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#808080);" vertex="1" parent="1">
+          <mxGeometry x="370" y="20" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-2" target="VzxG3PNdKPLOwtO5EStc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-2" value="Mostrar: &quot;Ingrese la edad del cliente: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-3" target="VzxG3PNdKPLOwtO5EStc-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="560" />
+              <mxPoint x="430" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-3" value="asignarle a la variable permitido que sea verdadero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="610" y="335" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-8" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#808080);" vertex="1" parent="1">
+          <mxGeometry x="370" y="850" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-10" target="VzxG3PNdKPLOwtO5EStc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-10" target="VzxG3PNdKPLOwtO5EStc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-10" value="Si edad &amp;gt;= 18" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#336600);" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-13" target="VzxG3PNdKPLOwtO5EStc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-13" value="asignarle a la variable permitido que sea verdadero" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#004C99);" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-15" value="&lt;div&gt;No&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-16" value="&lt;div&gt;Si&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-17" target="VzxG3PNdKPLOwtO5EStc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-17" target="VzxG3PNdKPLOwtO5EStc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-17" value="Si perimitido es verdadero" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#336600);" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-22" value="Mostrar: &quot;El cliente puede entrar a la discoteca&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-23" target="VzxG3PNdKPLOwtO5EStc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-23" value="Mostrar: &quot;El cliente no puede entrar a la discoteca&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#999900);" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-27" value="&lt;div&gt;Si&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-28" value="&lt;div&gt;No&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzxG3PNdKPLOwtO5EStc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VzxG3PNdKPLOwtO5EStc-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="850" as="targetPoint" />
+            <mxPoint x="680" y="675" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="680" y="830" />
+              <mxPoint x="430" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
