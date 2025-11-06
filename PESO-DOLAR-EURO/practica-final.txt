@@ -1,0 +1,42 @@
+-----------------------------------------
+Problema:
+Una empresa argentina esta perdiendo plata en las transacciones al cambiar la moneda del peso por el euro o dolar.
+Hacer un algoritmo que solucione el problema
+-----------------------------------------
+
+-----------------------------------------
+Algoritmo:
+1. Definir el valor actual del euro y dolar contra el peso
+2. Pedir al usuario a que quiere convertir sus pesos (Euro o Dolar)
+3. Pedir monto a convertir
+4. Hacer la conversion utilizando los datos obtenidos
+5. Mostrar el resultado de la conversion
+-----------------------------------------
+
+-----------------------------------------
+Pseudocodigo:
+
+Inicio
+    # Paso 1: Definir el valor actual del euro y dolar contra el peso
+    Definir tipo_cambio_eur_ars = (valor actual)
+    Definir tipo_cambio_usd_ars = (valor actual)
+
+    # Paso 2: Pedir al usuario a que quiere convertir sus pesos (Euro o Dolar)
+    Mostrar: "Ingrese la moneda que origen para la conversion (EUR/USD): "
+
+    # Paso 3: Pedir monto a convertir
+    Mostrar: "Ingresar monto a convertir: "
+
+    # Paso 4: Hacer la conversion utilizando los datos obtenidos
+    # Paso 5: Mostrar el resultado de la conversion
+
+    Si tipo_conversion == "eur"
+        calcular resultado = monto_a_convertir * tipo_cambio_eur_ars
+        Mostrar: "El resultado de la conversion EUR a ARS es: ", resultado
+    Sino si tipo_conversion == "usd"
+        calcular resultado = monto_a_convertir * tipo_cambio_usd_ars
+        Mostrar: "El resultado de la conversion USD a ARS es: ", resultado
+    Sino
+        Mostrar: "Error en la conversion"
+Fin
+-----------------------------------------

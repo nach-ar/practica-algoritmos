@@ -1,0 +1,27 @@
+-----------------------------------------
+Problema:
+Una empresa tiene problemas porque los planos que tiene estan en centimetros,
+y ellos trabajan en pulgadas
+-----------------------------------------
+
+-----------------------------------------
+Algoritmo:
+1. Pedir la medida de la pieza en cm
+2. Convertir las medidas en cm a pulgadas
+3. Mostrar las medidas convertidas en pulgadas
+-----------------------------------------
+
+-----------------------------------------
+Pseudocodigo:
+
+Inicio
+    # Paso 1: Pedir la medida de la pieza en cm
+    Mostrar: "Ingresar las medidas de la pieza del mueble (en cms): "
+
+    # Paso 2: Convertir las medidas en cm a pulgadas
+    Convertir medida_en_pulgadas = medida_en_cms /2.52
+
+    # Paso 3: Mostrar las medidas convertidas en pulgadas
+    Mostrar: "La medida de la pieza en pulgadas es: ", medida_en_pulgadas
+Fin
+-----------------------------------------
